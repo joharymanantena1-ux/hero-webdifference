@@ -38,3 +38,55 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+
+Log Installation : 
+
+PS J:\Perso\Test Technique> npx create-next-app
+Need to install the following packages:
+create-next-app@16.1.1
+Ok to proceed? (y) y
+
+√ What is your project named? ... hero-webdifference
+√ Would you like to use the recommended Next.js defaults? » No, customize settings
+√ Would you like to use TypeScript? ... No / Yes
+√ Which linter would you like to use? » ESLint
+√ Would you like to use React Compiler? ... No / Yes
+√ Would you like to use Tailwind CSS? ... No / Yes
+√ Would you like your code inside a `src/` directory? ... No / Yes
+√ Would you like to use App Router? (recommended) ... No / Yes
+√ Would you like to customize the import alias (`@/*` by default)? ... No / Yes
+Creating a new Next.js app in J:\Perso\Test Technique\hero-webdifference.
+
+Using npm.
+
+Initializing project with template: default-tw
+
+
+Installing dependencies:
+- next
+- react
+- react-dom
+
+Installing devDependencies:
+- @tailwindcss/postcss
+- eslint
+- eslint-config-next
+- tailwindcss
+
+
+added 351 packages, and audited 352 packages in 3m
+
+141 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Generating route types...
+✓ Types generated successfully
+
+Initialized a git repository.
+
+Success! Created hero-webdifference at J:\Perso\Test Technique\hero-webdifference
+
+PS J:\Perso\Test Technique> 
